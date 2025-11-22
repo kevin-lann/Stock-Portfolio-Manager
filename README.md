@@ -1,1 +1,3 @@
-# C43-Final-Project
+# Openfolio
+
+A social network for stocks
