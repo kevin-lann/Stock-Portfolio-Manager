@@ -1,3 +1,3 @@
 # Openfolio
 
-A social network for stocks
+A social network for traders
